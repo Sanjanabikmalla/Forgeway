@@ -1,0 +1,8 @@
+{
+  "name": "Brandwave",
+  "description": "AI Personal Branding Assistant for students, founders, and professionals. Generate bios, content pillars, post ideas, and track brand score.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
